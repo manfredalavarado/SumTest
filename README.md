@@ -1,2 +1,0 @@
-# SumTest
-Prueba para documentación
